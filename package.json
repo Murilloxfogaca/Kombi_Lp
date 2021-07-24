@@ -1,0 +1,15 @@
+{
+  "name": "murillo",
+  "version": "0.1.0",
+  "description": "Testes apenas",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -watch scss -o css"
+  },
+  "author": "Murillo",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
